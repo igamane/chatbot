@@ -1,0 +1,9 @@
+{
+    "instructions": "Answer based on the provided document",
+    "name": "Assistant",
+    "tools": [
+        {"type": "code_interpreter"},
+        {"type": "retrieval"}
+    ],
+    "model": "gpt-3.5-turbo-1106"
+}
